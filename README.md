@@ -243,4 +243,3 @@ Super_Ray/
 
 - The top-level folder now acts as the workspace root for all projects.
 - Some subprojects were originally their own git repositories; this workspace now documents them together as one suite.
-- If you want, this README can be split later into per-project READMEs and a shorter root index.
